@@ -19,6 +19,14 @@
 - **DoD:** El archivo existe con las 4 secciones mandatorias (Definición, Identidad, Estado, Fuentes). Todos los campos obligatorios tienen valor real (no placeholder).
 - **Estado:** DONE
 
+#### [F1-T08] Configurar CI (GitHub Actions)
+- **Responsable:** @ai-repository-governor
+- **Iteración:** 1.1
+- **Entregable:** `.github/workflows/ci.yml`
+- **Acción:** Infra
+- **DoD:** El archivo de workflow existe y está configurado para ejecutar linter y tests.
+- **Estado:** DONE
+
 ### Iteración 1.2: Documentación de Negocio
 
 #### [F1-T02] Crear BRD (Business Requirements Document)
