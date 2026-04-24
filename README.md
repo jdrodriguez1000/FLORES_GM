@@ -1,7 +1,7 @@
 # Flores_GM
 
 ## 📋 Descripción
-Proyecto de gestión y análisis Flores_GM.
+Modelo de Machine Learning para la clasificación exacta de especies de flores Iris (Setosa, Versicolor y Virginica) a partir de sus dimensiones físicas, integrado en una aplicación web funcional para el usuario final.
 
 ## 🏗️ Estructura del Repositorio
 - `docs/`: Documentación del proyecto dividida por fases (Discovery, Engineering, Modeling, Delivery).

@@ -1,7 +1,10 @@
 # config.md — Configuración Central del Proyecto
 
-> **Fuente de Verdad:** Este documento implementa las reglas locales basadas en [[GEMINI.md]].
-> **Propósito:** Centralizar la identidad, estado y fuentes externas del proyecto.
+## 📜 Definición del Proyecto
+| Campo | Valor |
+| :--- | :--- |
+| **Fuente de Verdad** | [[GEMINI.md]] |
+| **Propósito** | Centralizar la identidad, estado y fuentes externas del proyecto. |
 
 ---
 
@@ -12,7 +15,7 @@
 | **Nombre Oficial** | Flores_GM |
 | **Alias** | Flores_GM |
 | **Propietario** | jdrodriguez1000@gmail.com |
-| **Descripción** | Proyecto de gestión y análisis Flores_GM |
+| **Descripción** | Clasificador de especies de flores Iris (Setosa, Versicolor, Virginica) basado en dimensiones físicas (sépalo/pétalo) con interfaz web de inferencia. |
 
 ---
 
@@ -21,8 +24,8 @@
 | Metrificación | Valor |
 | :--- | :--- |
 | **Fase Actual** | Phase 1: Discovery |
-| **Hito Activo** | Inicialización de Gobernanza |
-| **Progreso Total** | 5% |
+| **Hito Activo** | Documentación de Negocio (BRD) |
+| **Progreso Total** | 10% |
 
 ---
 
@@ -31,7 +34,7 @@
 ### 4.1 Repositorios de Código
 | Fuente | URL / ID |
 | :--- | :--- |
-| **GitHub Repo** | *Pendiente* |
+| **GitHub Repo** | `https://github.com/jdrodriguez1000/FLORES_GM.git` |
 
 ### 4.2 Documentación y Conocimiento (External)
 | Fuente | ID / Enlace |

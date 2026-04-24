@@ -10,10 +10,12 @@
 6. Crear o copiar el archivo agents.md en docs/references.
 7. Crear la carpeta docs/design-system con la informacion base para el front de la aplicacion.
 8. Crear el cerebro del proyecto en notebooklm, utilizando la habilidad
-9. Construir el backlog de la primera fase basado en la metodologia utilizando el agente especializado
-10. Crear el workflow de githbub action ci.yml
-11. Cerrar la primera sesion del proyecto utilizando el agente especializado.
-12. Realizar el primer enlace con git y github utilizando el agente.
+9. Construir la estructura inicial del proyecto con ai-repository-manager.
+10. Realizar el primer commit al repositorio en github.
+11. Construir el backlog de la primera fase basado en la metodologia utilizando el agente especializado ai-backlog-manager, 
+12. Crear el workflow de githbub action ci.yml|
+13. Cerrar la primera sesion del proyecto utilizando el agente especializado.
+14. Realizar el enlace con git y github utilizando el agente.
 
 
 

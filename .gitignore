@@ -163,3 +163,6 @@ models/*.joblib
 # OS files
 .DS_Store
 Thumbs.db
+ 
+ajustes.txt
+tmp.md
