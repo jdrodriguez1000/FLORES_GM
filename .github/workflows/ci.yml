@@ -28,8 +28,11 @@ jobs:
       - name: Instalar Dependencias
         run: pip install -r requirements.txt
 
+      - name: Listar archivos para depuración
+        run: ls -R
+
       - name: Revisión de Estilo (Ruff)
-        run: ruff check src/ tests/
+        run: ruff check . --select E,F,W --exclude .git
 
       - name: Ejecutar Tests Unitarios (Pytest)
         run: pytest tests/ -v

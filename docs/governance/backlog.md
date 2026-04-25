@@ -35,7 +35,15 @@
 - **Entregable:** `docs/governance/brd.md`
 - **Acción:** Documentation
 - **DoD:** BRD contiene objetivos de negocio, KPIs con thresholds definidos y criterios de aceptación verificables.
-- **Estado:** TODO
+- **Estado:** DONE
+
+#### [F1-T09] Crear Behavior Contract (BDD)
+- **Responsable:** @ai-business-strategist
+- **Iteración:** 1.2
+- **Entregable:** `docs/governance/behavior.md`
+- **Acción:** Documentation
+- **DoD:** Todas las User Stories del BRD están traducidas a escenarios Gherkin (Given/When/Then) definiendo el comportamiento exacto del sistema ante diferentes inputs.
+- **Estado:** DONE
 
 ### Iteración 1.3: Factibilidad y Diseño de Experiencia
 
@@ -45,7 +53,7 @@
 - **Entregable:** `docs/Phase_discovery/feasibility.md`
 - **Acción:** Documentation
 - **DoD:** Reporte incluye diagnóstico de calidad de datos (completitud, distribución, outliers) y veredicto GO/NO-GO para continuar a Phase Engineering.
-- **Estado:** TODO
+- **Estado:** DONE
 
 #### [F1-T04] Crear Mockup de Interfaz
 - **Responsable:** @ai-ux-designer
@@ -53,7 +61,7 @@
 - **Entregable:** `docs/Phase_discovery/mockup.md`
 - **Acción:** Documentation
 - **DoD:** Mockup aprobado por el Stakeholder principal. Cubre flujos principales de la aplicación.
-- **Estado:** TODO
+- **Estado:** DONE
 
 ### Iteración 1.4: Arquitectura y Especificaciones Técnicas
 
@@ -63,7 +71,7 @@
 - **Entregable:** `docs/governance/sad.md`
 - **Acción:** Documentation
 - **DoD:** SAD define el stack tecnológico, diagrama de arquitectura de 4 capas (Bronze/Silver/Gold/Model) y las interfaces entre componentes.
-- **Estado:** TODO
+- **Estado:** DONE
 
 #### [F1-T06] Crear SpecDD (Specification-Driven Development)
 - **Responsable:** @ai-solutions-architect
@@ -71,7 +79,7 @@
 - **Entregable:** `docs/governance/specdd.md`
 - **Acción:** Documentation
 - **DoD:** SpecDD contiene las firmas de todas las funciones `.py` del pipeline, contratos de entrada/salida y criterios de aceptación técnicos por módulo.
-- **Estado:** TODO
+- **Estado:** DONE
 
 ### Iteración 1.5: Contrato de Datos
 
@@ -81,7 +89,7 @@
 - **Entregable:** `docs/governance/contract.md`
 - **Acción:** Documentation
 - **DoD:** Contract define esquema de variables (tipo, rango, cardinalidad), reglas de validación matemáticas y criterios de rechazo de datos.
-- **Estado:** TODO
+- **Estado:** DONE
 
 ---
 
