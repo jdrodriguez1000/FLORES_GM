@@ -71,7 +71,7 @@
 - **Entregable:** `docs/governance/sad.md`
 - **Acción:** Documentation
 - **DoD:** SAD define el stack tecnológico, diagrama de arquitectura de 4 capas (Bronze/Silver/Gold/Model) y las interfaces entre componentes.
-- **Estado:** TODO
+- **Estado:** DONE
 
 #### [F1-T06] Crear SpecDD (Specification-Driven Development)
 - **Responsable:** @ai-solutions-architect
@@ -79,7 +79,7 @@
 - **Entregable:** `docs/governance/specdd.md`
 - **Acción:** Documentation
 - **DoD:** SpecDD contiene las firmas de todas las funciones `.py` del pipeline, contratos de entrada/salida y criterios de aceptación técnicos por módulo.
-- **Estado:** TODO
+- **Estado:** DONE
 
 ### Iteración 1.5: Contrato de Datos
 
@@ -89,7 +89,7 @@
 - **Entregable:** `docs/governance/contract.md`
 - **Acción:** Documentation
 - **DoD:** Contract define esquema de variables (tipo, rango, cardinalidad), reglas de validación matemáticas y criterios de rechazo de datos.
-- **Estado:** TODO
+- **Estado:** DONE
 
 ---
 
